@@ -1,0 +1,649 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    font-family: 'Jua', cursive;
+    margin: 0; /* Pastikan ada */
+    padding: 0; /* Pastikan ada */
+}
+
+/*navbar*/
+
+.layer-utama {
+      width: 1441px;
+      height: 3850px;
+      left: -9px;
+      top: 0px;
+      position: absolute;
+      background: #FFF2EB;
+    }
+
+    .melt2 {
+      width: 1390px;
+      height: 433.52px;
+      left: -124px;
+      top: 466.08px;
+      position: absolute;
+    }
+
+    .melt1 {
+      width: 1280px;
+      height: 366.61px;
+      left: -8.30px;
+      top: 99.47px;
+      position: absolute;
+    }
+
+    .cherry {
+      width: 252.03px;
+      height: 250.52px;
+      left: -8.19px;
+      top: 49.40px;
+      position: absolute;
+      transform: rotate(15deg);
+      transform-origin: top left;
+    }
+
+    .fveebloomie_span {
+      color: #5D4D4D;
+      font-size: 100px;
+      font-family: Jua;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .fvee-bloomie {
+      width: 643.42px;
+      height: 111.28px;
+      left: 60.12px;
+      top: 180.40px;
+      position: absolute;
+    }
+
+    .biarkancookiescantikkamimekardimomenistimewamu_span {
+      color: #886F6F;
+      font-size: 37px;
+      font-family: Jua;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .text--biarkan-cookies-cantik-kami-mekar-di-momen-istimewamu- {
+      width: 542.25px;
+      height: 94.79px;
+      left: 60px;
+      top: 284.87px;
+      position: absolute;
+    }
+
+    .rectangle-13 {
+      width: 266.25px;
+      height: 68.30px;
+      left: 60px;
+      top: 447.02px;
+      position: absolute;
+      background: #493628;
+      border-radius: 20px;
+    }
+
+    .chatnow_span {
+      color: #DCD3D3;
+      font-size: 38px;
+      font-family: Jua;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .chat-now {
+      width: 180.08px;
+      height: 44.51px;
+      left: 103.63px;
+      top: 455.93px;
+      position: absolute;
+    }
+
+    .ellipse-9 {
+      width: 393.56px;
+      height: 393.56px;
+      left: 760.25px;
+      top: 134.52px;
+      position: absolute;
+      border-radius: 9999px;
+    }
+
+    .bubble {
+      width: 306.92px;
+      height: 219.15px;
+      left: 475.85px;
+      top: 505.32px;
+      position: absolute;
+      transform: rotate(-24deg);
+      transform-origin: top left;
+    }
+
+    .rangkaiancookiespinklembutyangmekarcantikdibungkusorganzaputihelegansempurnauntukmomentspesialdanmengungkapkanperasaanmanis_span {
+      color: #886F6F;
+      font-size: 40px;
+      font-family: Jua;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .rangkaian-cookies-pink-lembut-yang-mekar-cantik-dibungkus-organza-putih-elegan-sempurna-untuk-moment-spesial-dan-mengungkapkan-perasaan-manis {
+      width: 625px;
+      height: 307px;
+      left: 512px;
+      top: 1014px;
+      position: absolute;
+    }
+
+    .blossompinkbouquet_span {
+      color: #5D4D4D;
+      font-size: 90px;
+      font-family: Jua;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .blossom-pink-bouquet {
+      width: 579px;
+      height: 204px;
+      left: 512px;
+      top: 810px;
+      position: absolute;
+    }
+
+    .rectangle-3 {
+      width: 398px;
+      height: 499px;
+      left: 51px;
+      top: 822px;
+      position: absolute;
+      border-radius: 100px;
+    }
+
+    .rectangle-11 {
+      width: 1275px;
+      height: 550px;
+      left: -9px;
+      top: 1398px;
+      position: absolute;
+      background: #FFDCDC;
+    }
+
+    .ellipse-2 {
+      width: 326.84px;
+      height: 324px;
+      left: 61.61px;
+      top: 1571px;
+      position: absolute;
+      border-radius: 9999px;
+    }
+
+    .ellipse-1 {
+      width: 326.84px;
+      height: 324px;
+      left: 850.46px;
+      top: 1571px;
+      position: absolute;
+      border-radius: 9999px;
+    }
+
+    .ellipse-5 {
+      width: 326.84px;
+      height: 324px;
+      left: 452px;
+      top: 1571px;
+      position: absolute;
+      border-radius: 9999px;
+    }
+
+    .rectangle-23 {
+      width: 326.84px;
+      height: 76.34px;
+      left: 61.61px;
+      top: 1466.61px;
+      position: absolute;
+      background: #FFF2EB;
+      border-radius: 15px;
+    }
+
+    .cookies_span {
+      color: #886F6F;
+      font-size: 48px;
+      font-family: Jua;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .cookies {
+      width: 197.72px;
+      height: 42.52px;
+      left: 126.17px;
+      top: 1479.18px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rectangle-24 {
+      width: 326.84px;
+      height: 76.34px;
+      left: 452px;
+      top: 1466.61px;
+      position: absolute;
+      background: #FFF2EB;
+      border-radius: 15px;
+    }
+
+    .box_span {
+      color: #886F6F;
+      font-size: 48px;
+      font-family: Jua;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .box {
+      width: 197.72px;
+      height: 57.02px;
+      left: 516.56px;
+      top: 1479.18px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rectangle-25 {
+      width: 326.84px;
+      height: 76.34px;
+      left: 850.46px;
+      top: 1466.61px;
+      position: absolute;
+      background: #FFF2EB;
+      border-radius: 15px;
+    }
+
+    .bloomie_span {
+      color: #886F6F;
+      font-size: 48px;
+      font-family: Jua;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .bloomie {
+      width: 197.72px;
+      height: 57.02px;
+      left: 915.02px;
+      top: 1479.18px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rectangle-11_01 {
+      width: 1275px;
+      height: 495px;
+      left: -9px;
+      top: 2020px;
+      position: absolute;
+      background: #FFDCDC;
+    }
+
+    .fveebloomie_01_span {
+      color: black;
+      font-size: 52px;
+      font-family: Lisu Bosa;
+      font-weight: 800;
+      word-wrap: break-word;
+    }
+
+    .fvee-bloomie_01 {
+      width: 354.52px;
+      height: 40.66px;
+      left: 421.06px;
+      top: 2109.45px;
+      position: absolute;
+    }
+
+    .rectangle-26 {
+      width: 302px;
+      height: 275px;
+      left: 67px;
+      top: 2109px;
+      position: absolute;
+      background: #D9D9D9;
+      border-radius: 100px;
+    }
+
+    .aboutusproductcontact_span {
+      color: black;
+      font-size: 39px;
+      font-family: Lisu Bosa;
+      font-weight: 200;
+      word-wrap: break-word;
+    }
+
+    .about-us-product-contact {
+      width: 174.72px;
+      height: 174.30px;
+      left: 421.06px;
+      top: 2180.60px;
+      position: absolute;
+    }
+
+    .contactus_span {
+      color: black;
+      font-size: 52px;
+      font-family: Lisu Bosa;
+      font-weight: 800;
+      word-wrap: break-word;
+    }
+
+    .contact-us {
+      width: 336.39px;
+      height: 40.66px;
+      left: 778.60px;
+      top: 2111.48px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .f2-834-5678-9010feveebloomieemailfevebloomiegmailcom_span {
+      color: black;
+      font-size: 39px;
+      font-family: Lisu Bosa;
+      font-weight: 200;
+      word-wrap: break-word;
+    }
+
+    .text-62-834-5678-9010-feveebloomie-email-fevebloomiegmailcom {
+      width: 423.01px;
+      height: 182.96px;
+      left: 803.78px;
+      top: 2171.45px;
+      position: absolute;
+    }
+
+    .rectangle-11_02 {
+      width: 1275px;
+      height: 100px;
+      left: -5.99px;
+      top: -2px;
+      position: absolute;
+      background: #FFF2EB;
+      box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+    }
+
+    .rectangle-12 {
+      width: 1275px;
+      height: 25.29px;
+      left: -7px;
+      top: 0.30px;
+      position: absolute;
+      background: #FFDCDC;
+    }
+
+    .logo1 {
+      width: 287.17px;
+      height: 86.21px;
+      left: 21.36px;
+      top: 0.30px;
+      position: absolute;
+      background: #FFDCDC;
+      border-radius: 20px;
+    }
+
+    .contact_span {
+      color: #51464F;
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .contact {
+      width: 102.81px;
+      height: 24.14px;
+      left: 614.89px;
+      top: 44.34px;
+      position: absolute;
+    }
+
+    .collections_span {
+      color: #51464F;
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .collections {
+      width: 154.77px;
+      height: 24.39px;
+      left: 434.93px;
+      top: 43.12px;
+      position: absolute;
+    }
+
+    .home_span {
+      color: #51464F;
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .home {
+      width: 67.36px;
+      height: 24.14px;
+      left: 336.24px;
+      top: 41.90px;
+      position: absolute;
+    }
+
+    .search {
+    width: 54.17px;
+    height: 54.17px;
+    position: absolute;
+    right: 20px; /* Gunakan right instead of left */
+    top: 30.92px;
+    z-index: 10; /* Pastikan di atas elemen lain */
+    }
+
+    .search {
+    width: 54.17px;
+    height: 54.17px;
+    position: absolute;
+    right: 109px;
+    top: 30.92px; /* Kembali ke nilai original */
+    z-index: 999;
+    }
+
+    .search1 {
+      width: 377.36px;
+      height: 50px;
+      left: 799.05px;
+      top: 34px;
+      position: absolute;
+      background: #FFDCDC;
+      border-radius: 30px;
+    }
+
+    .trolly {
+      width: 52.16px;
+      height: 52.16px;
+      left: 1199.76px;
+      top: 34.08px;
+      position: absolute;
+      transform: rotate(0deg);
+      transform-origin: top left;
+    }
+
+    .bouquetcookies_span {
+      color: black;
+      font-size: 18px;
+      font-family: Kanit;
+      font-weight: 275;
+      word-wrap: break-word;
+    }
+
+    .bouquet-cookies {
+      width: 304.51px;
+      height: 34.48px;
+      left: 53.38px;
+      top: 49.22px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .fveebloomie_02_span {
+      color: black;
+      font-size: 25px;
+      font-family: Kanit;
+      font-weight: 600;
+      word-wrap: break-word;
+    }
+
+    .fvee-bloomie_02 {
+      width: 226.42px;
+      height: 45.12px;
+      left: 21.18px;
+      top: 19.95px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rectangle-1_01 {
+      width: 302px;
+      height: 275px;
+      left: 65px;
+      top: 2109px;
+      position: absolute;
+      border-radius: 100px;
+    }
+
+    .rectangle-3563373d63d8b2935007d91601aad752-removebg-preview-1 {
+      width: 207.82px;
+      height: 206.57px;
+      left: -24px;
+      top: 1904.29px;
+      position: absolute;
+    }
+
+    .rectangle-584f1b8e8507f2b38f121e05dc14580a-removebg-preview-1 {
+      width: 311.43px;
+      height: 316.96px;
+      left: 1031.71px;
+      top: 696px;
+      position: absolute;
+      transform: rotate(11deg);
+      transform-origin: top left;
+    }
+
+    .desktop---7 {
+      width: 1275px;
+      height: 2507px;
+      position: relative;
+      background: white;
+      overflow: hidden;
+    }
+
+    @media (max-width: 768px) {
+        .nav-menu {
+            display: none;
+            position: fixed;
+            top: 100px;
+            left: 0;
+            width: 100%;
+            background: #FFF2EB;
+            flex-direction: column;
+            padding: 2rem;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+
+        .nav-menu.active {
+            display: flex;
+        }
+
+        .mobile-menu-btn {
+            display: block;
+        }
+
+        .search-box {
+            width: 180px;
+        }
+
+        .logo-section {
+            min-width: 150px;
+        }
+
+        .logo-title {
+            font-size: 1.2rem;
+        }
+
+        .logo-subtitle {
+            font-size: 0.8rem;
+        }
+
+        .hero {
+            grid-template-columns: 1fr;
+            text-align: center;
+            gap: 3rem;
+        }
+
+        .featured-container {
+            grid-template-columns: 1fr;
+            text-align: center;
+        }
+
+        .about-container {
+            grid-template-columns: 1fr;
+            gap: 3rem;
+        }
+
+        .products-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .cherry-decoration {
+            width: 100px;
+            left: -30px;
+        }
+
+        .bubble-decoration {
+            width: 150px;
+            right: -30px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .nav-container {
+            padding: 0 0.5rem;
+        }
+
+        .search-box {
+            width: 120px;
+        }
+
+        .nav-actions {
+            gap: 0.5rem;
+        }
+
+        .search-icon, .cart-icon {
+            width: 35px;
+            height: 35px;
+        }
+
+        .hero {
+            padding: 1rem 0.5rem;
+        }
+
+        .featured-product, .products-section, .about-section {
+            padding: 2rem 0.5rem;
+        }
+    }

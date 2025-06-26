@@ -1,0 +1,888 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    font-family: 'Jua', cursive;
+    margin: 0; /* Pastikan ada */
+    padding: 0; /* Pastikan ada */
+}
+
+.layer-utama {
+      width: 1453px;
+      height: 3850px;
+      left: -14px;
+      top: 12px;
+      position: absolute;
+      background: #FFF2EB;
+    }
+
+    .rectangle-11 {
+      width: 1300px;
+      height: 495px;
+      left: -12.04px;
+      top: 2022px;
+      position: absolute;
+      background: #FFDCDC;
+    }
+
+    .fveebloomie_span {
+      color: black;
+      font-size: 52px;
+      font-family: Lisu Bosa;
+      font-weight: 800;
+      word-wrap: break-word;
+    }
+
+    .fvee-bloomie {
+      width: 357.48px;
+      height: 40.66px;
+      left: 421.61px;
+      top: 2111.45px;
+      position: absolute;
+    }
+
+    .aboutusproductcontact_span {
+      color: black;
+      font-size: 39px;
+      font-family: Lisu Bosa;
+      font-weight: 200;
+      word-wrap: break-word;
+    }
+
+    .about-us-product-contact {
+      width: 176.18px;
+      height: 174.30px;
+      left: 421.61px;
+      top: 2182.60px;
+      position: absolute;
+    }
+
+    .contactus_span {
+      color: black;
+      font-size: 52px;
+      font-family: Lisu Bosa;
+      font-weight: 800;
+      word-wrap: break-word;
+    }
+
+    .contact-us {
+      width: 339.20px;
+      height: 40.66px;
+      left: 782.14px;
+      top: 2113.48px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .f2-834-5678-9010feveebloomieemailfevebloomiegmailcom_span {
+      color: black;
+      font-size: 39px;
+      font-family: Lisu Bosa;
+      font-weight: 200;
+      word-wrap: break-word;
+    }
+
+    .text-62-834-5678-9010-feveebloomie-email-fevebloomiegmailcom {
+      width: 426.54px;
+      height: 182.96px;
+      left: 807.53px;
+      top: 2173.45px;
+      position: absolute;
+    }
+
+    .rectangle-11_01 {
+      width: 1278.59px;
+      height: 100px;
+      left: -9.02px;
+      top: 0px;
+      position: absolute;
+      background: #FFF2EB;
+      box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+    }
+
+    .rectangle-12 {
+      width: 1266px;
+      height: 28px;
+      left: -10px;
+      top: 0px;
+      position: absolute;
+      background: #FFDCDC;
+    }
+
+    .logo1 {
+      width: 287.53px;
+      height: 86.21px;
+      left: 18.38px;
+      top: 2.30px;
+      position: absolute;
+      background: #FFDCDC;
+      border-radius: 20px;
+    }
+
+    .contact_span {
+      color: #51464F;
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .contact {
+      width: 102.94px;
+      height: 24.14px;
+      left: 612.65px;
+      top: 46.34px;
+      position: absolute;
+    }
+
+    .home_span {
+      color: #51464F;
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .home {
+      width: 67.45px;
+      height: 24.14px;
+      left: 336.67px;
+      top: 43.90px;
+      position: absolute;
+    }
+
+    .search {
+    width: 54.17px;
+    height: 54.17px;
+    position: absolute;
+    right: 20px; /* Gunakan right instead of left */
+    top: 30.92px;
+    z-index: 10; /* Pastikan di atas elemen lain */
+    }
+
+    .search {
+    width: 54.17px;
+    height: 54.17px;
+    position: absolute;
+    right: 109px;
+    top: 30.92px; /* Kembali ke nilai original */
+    z-index: 999;
+    }
+
+    .search1 {
+      width: 377.36px;
+      height: 50px;
+      left: 799.05px;
+      top: 34px;
+      position: absolute;
+      background: #FFDCDC;
+      border-radius: 30px;
+    }
+
+    .trolly {
+      width: 52.16px;
+      height: 52.16px;
+      left: 1199.76px;
+      top: 34.08px;
+      position: absolute;
+      transform: rotate(0deg);
+      transform-origin: top left;
+    }
+
+    .bouquetcookies_span {
+      color: black;
+      font-size: 18px;
+      font-family: Kanit;
+      font-weight: 275;
+      word-wrap: break-word;
+    }
+
+    .bouquet-cookies {
+      width: 304.89px;
+      height: 34.48px;
+      left: 50.43px;
+      top: 51.22px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .fveebloomie_01_span {
+      color: black;
+      font-size: 25px;
+      font-family: Kanit;
+      font-weight: 600;
+      word-wrap: break-word;
+    }
+
+    .fvee-bloomie_01 {
+      width: 226.70px;
+      height: 45.12px;
+      left: 18.19px;
+      top: 21.95px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .untitled__1266_x_367_px___1266_x_400_px_-removebg-preview-1 {
+      width: 1256px;
+      height: 397px;
+      left: 0px;
+      top: 103px;
+      position: absolute;
+    }
+
+    .untitled__1266_x_367_px___1266_x_400_px_-removebg-preview-2 {
+      width: 1256px;
+      height: 397px;
+      left: 2px;
+      top: 821px;
+      position: absolute;
+    }
+
+    .untitled__1266_x_367_px___1266_x_400_px_-removebg-preview-3 {
+      width: 1256px;
+      height: 397px;
+      left: 2px;
+      top: 1540px;
+      position: absolute;
+    }
+
+    .f13bda7fc08a77a795e25ca5096b6b52-removebg-preview-1 {
+      width: 179.30px;
+      height: 197.76px;
+      left: 1.51px;
+      top: 367.87px;
+      position: absolute;
+      transform: rotate(15deg);
+      transform-origin: top left;
+    }
+
+    .e-removebg-preview-1 {
+      width: 158px;
+      height: 154px;
+      left: 89.73px;
+      top: 617px;
+      position: absolute;
+      transform: rotate(15deg);
+      transform-origin: top left;
+    }
+
+    .d-removebg-preview-1 {
+      width: 168px;
+      height: 163px;
+      left: 19.18px;
+      top: 823px;
+      position: absolute;
+      transform: rotate(20deg);
+      transform-origin: top left;
+    }
+
+    .c-removebg-preview-1 {
+      width: 170px;
+      height: 191px;
+      left: 51.92px;
+      top: 1083.03px;
+      position: absolute;
+      transform: rotate(-7deg);
+      transform-origin: top left;
+    }
+
+    .b-removebg-preview-1 {
+      width: 178.64px;
+      height: 167.22px;
+      left: 52.33px;
+      top: 1554px;
+      position: absolute;
+      transform: rotate(7deg);
+      transform-origin: top left;
+    }
+
+    .a-removebg-preview-1 {
+      width: 164.22px;
+      height: 193.91px;
+      left: 11.53px;
+      top: 1320px;
+      position: absolute;
+      transform: rotate(13deg);
+      transform-origin: top left;
+    }
+
+    .f-removebg-preview-1 {
+      width: 214.66px;
+      height: 198.39px;
+      left: -52px;
+      top: 1826.28px;
+      position: absolute;
+      transform: rotate(-10deg);
+      transform-origin: top left;
+    }
+
+    .f13bda7fc08a77a795e25ca5096b6b52-removebg-preview-1_01 {
+      width: 179.33px;
+      height: 197.79px;
+      left: 1254.46px;
+      top: 605.03px;
+      position: absolute;
+      transform: rotate(195deg);
+      transform-origin: top left;
+    }
+
+    .e-removebg-preview-1_01 {
+      width: 157.96px;
+      height: 154.09px;
+      left: 1166.22px;
+      top: 806.74px;
+      position: absolute;
+      transform: rotate(195deg);
+      transform-origin: top left;
+    }
+
+    .d-removebg-preview-1_01 {
+      width: 167.88px;
+      height: 163.17px;
+      left: 1236.78px;
+      top: 1033.49px;
+      position: absolute;
+      transform: rotate(200deg);
+      transform-origin: top left;
+    }
+
+    .c-removebg-preview-1_01 {
+      width: 170.16px;
+      height: 190.89px;
+      left: 1204.13px;
+      top: 1251.90px;
+      position: absolute;
+      transform: rotate(173deg);
+      transform-origin: top left;
+    }
+
+    .b-removebg-preview-1_01 {
+      width: 178.67px;
+      height: 167.24px;
+      left: 1203.62px;
+      top: 1742.79px;
+      position: absolute;
+      transform: rotate(187deg);
+      transform-origin: top left;
+    }
+
+    .a-removebg-preview-1_01 {
+      width: 164.24px;
+      height: 193.94px;
+      left: 1244.44px;
+      top: 1545.98px;
+      position: absolute;
+      transform: rotate(193deg);
+      transform-origin: top left;
+    }
+
+    .f-removebg-preview-1_01 {
+      width: 214.69px;
+      height: 198.43px;
+      left: 1308px;
+      top: 1985.67px;
+      position: absolute;
+      transform: rotate(170deg);
+      transform-origin: top left;
+    }
+
+    .collections_span {
+      color: #51464F;
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .collections {
+      width: 154px;
+      height: 25px;
+      left: 431px;
+      top: 45px;
+      position: absolute;
+    }
+
+    .cookies_span {
+      color: #493628;
+      font-size: 96px;
+      font-family: Kavoon;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .cookies- {
+      width: 532px;
+      height: 105px;
+      left: 398px;
+      top: 249px;
+      position: absolute;
+    }
+
+    .rectangle-14 {
+      width: 379.11px;
+      height: 474.90px;
+      left: 228px;
+      top: 412px;
+      position: absolute;
+      background: #FFE8CD;
+      border-radius: 20px;
+    }
+
+    .rectangle-15 {
+      width: 333.33px;
+      height: 299.57px;
+      left: 252.32px;
+      top: 436.85px;
+      position: absolute;
+      background: #CCCCCC;
+      border-radius: 20px;
+    }
+
+    .namaproduk_span {
+      color: #493628;
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .nama-produk {
+      width: 234.62px;
+      height: 38.65px;
+      left: 299.53px;
+      top: 765.41px;
+      position: absolute;
+    }
+
+    .rp10000000_span {
+      color: rgba(73, 54, 40, 0.50);
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .rp-10000000 {
+      width: 237.48px;
+      height: 62.12px;
+      left: 308.11px;
+      top: 812.35px;
+      position: absolute;
+    }
+
+    .rectangle-18 {
+      width: 379px;
+      height: 483px;
+      left: 653px;
+      top: 412px;
+      position: absolute;
+      background: #FFE8CD;
+      border-radius: 20px;
+    }
+
+    .rectangle-14_01 {
+      width: 379.11px;
+      height: 474.90px;
+      left: 226px;
+      top: 943px;
+      position: absolute;
+      background: #FFE8CD;
+      border-radius: 20px;
+    }
+
+    .animalmacaronset_span {
+      color: #493628;
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .animal-macaron-set {
+      width: 286px;
+      height: 80px;
+      left: 699px;
+      top: 753px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rp18000000_span {
+      color: rgba(73, 54, 40, 0.50);
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .rp-18000000 {
+      width: 237.48px;
+      height: 62.12px;
+      left: 723.41px;
+      top: 833.06px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rectangle-16 {
+      width: 379px;
+      height: 483px;
+      left: 228px;
+      top: 412px;
+      position: absolute;
+      background: #FFE8CD;
+      border-radius: 20px;
+    }
+
+    .rectangle-17 {
+      width: 333.33px;
+      height: 299.57px;
+      left: 252.32px;
+      top: 436.85px;
+      position: absolute;
+      border-radius: 20px;
+    }
+
+    .capybaracreampuffs_span {
+      color: #493628;
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .capybara-cream-puffs {
+      width: 335px;
+      height: 82px;
+      left: 251px;
+      top: 753px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rp12000000_span {
+      color: rgba(73, 54, 40, 0.50);
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .rp-12000000 {
+      width: 237.48px;
+      height: 62.12px;
+      left: 308.11px;
+      top: 833.06px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rectangle-15_01 {
+      width: 333.33px;
+      height: 299.57px;
+      left: 250.32px;
+      top: 967.85px;
+      position: absolute;
+      background: #CCCCCC;
+      border-radius: 20px;
+    }
+
+    .namaproduk_01_span {
+      color: #493628;
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .nama-produk_01 {
+      width: 234.62px;
+      height: 38.65px;
+      left: 297.53px;
+      top: 1296.41px;
+      position: absolute;
+    }
+
+    .rp10000000_01_span {
+      color: rgba(73, 54, 40, 0.50);
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .rp-10000000_01 {
+      width: 237.48px;
+      height: 62.12px;
+      left: 306.11px;
+      top: 1343.35px;
+      position: absolute;
+    }
+
+    .rectangle-18_01 {
+      width: 333.68px;
+      height: 299.42px;
+      left: 250.32px;
+      top: 968px;
+      position: absolute;
+      border-radius: 20px;
+    }
+
+    .rectangle-13 {
+      width: 333.33px;
+      height: 299.57px;
+      left: 675.21px;
+      top: 967.85px;
+      position: absolute;
+      border-radius: 20px;
+    }
+
+    .miffybunnycookies_span {
+      color: #493628;
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .miffy-bunny-cookies {
+      width: 286px;
+      height: 80px;
+      left: 697px;
+      top: 1284px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rp20000000_span {
+      color: rgba(73, 54, 40, 0.50);
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .rp-20000000 {
+      width: 237.48px;
+      height: 62.12px;
+      left: 721.41px;
+      top: 1364.06px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rectangle-16_01 {
+      width: 333.33px;
+      height: 299.57px;
+      left: 671.21px;
+      top: 1499.85px;
+      position: absolute;
+      border-radius: 20px;
+    }
+
+    .cakemacaron_span {
+      color: #493628;
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .cake-macaron {
+      width: 335px;
+      height: 82px;
+      left: 249px;
+      top: 1284px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rp15000000_span {
+      color: rgba(73, 54, 40, 0.50);
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .rp-15000000 {
+      width: 237.48px;
+      height: 62.12px;
+      left: 306.11px;
+      top: 1364.06px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rectangle-14_02 {
+      width: 379.11px;
+      height: 474.90px;
+      left: 222px;
+      top: 1475px;
+      position: absolute;
+      background: #FFE8CD;
+      border-radius: 20px;
+    }
+
+    .rectangle-15_02 {
+      width: 333.33px;
+      height: 299.57px;
+      left: 246.32px;
+      top: 1499.85px;
+      position: absolute;
+      background: #CCCCCC;
+      border-radius: 20px;
+    }
+
+    .namaproduk_02_span {
+      color: #493628;
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .nama-produk_02 {
+      width: 234.62px;
+      height: 38.65px;
+      left: 293.53px;
+      top: 1828.41px;
+      position: absolute;
+    }
+
+    .rp10000000_02_span {
+      color: rgba(73, 54, 40, 0.50);
+      font-size: 24px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .rp-10000000_02 {
+      width: 237.48px;
+      height: 62.12px;
+      left: 302.11px;
+      top: 1875.35px;
+      position: absolute;
+    }
+
+    .rectangle-18_02 {
+      width: 379px;
+      height: 483px;
+      left: 647px;
+      top: 1475px;
+      position: absolute;
+      background: #FFE8CD;
+      border-radius: 20px;
+    }
+
+    .gingerbreadcreamsandwitches_span {
+      color: #493628;
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .gingerbread-cream-sandwitches {
+      width: 333px;
+      height: 80px;
+      left: 669px;
+      top: 1816px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rp15000000_01_span {
+      color: rgba(73, 54, 40, 0.50);
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .rp-15000000_01 {
+      width: 237.48px;
+      height: 62.12px;
+      left: 717.41px;
+      top: 1896.06px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rectangle-16_02 {
+      width: 379px;
+      height: 483px;
+      left: 222px;
+      top: 1475px;
+      position: absolute;
+      background: #FFE8CD;
+      border-radius: 20px;
+    }
+
+    .rectangle-2 {
+      width: 333.33px;
+      height: 299.57px;
+      left: 246.32px;
+      top: 1499.85px;
+      position: absolute;
+      border-radius: 20px;
+    }
+
+    .sweetheartmacaronbouquet_span {
+      color: #493628;
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .sweetheart-macaron-bouquet {
+      width: 335px;
+      height: 82px;
+      left: 245px;
+      top: 1816px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rp15000000_02_span {
+      color: rgba(73, 54, 40, 0.50);
+      font-size: 36px;
+      font-family: Irish Grover;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .rp-15000000_02 {
+      width: 237.48px;
+      height: 62.12px;
+      left: 302.11px;
+      top: 1896.06px;
+      position: absolute;
+      text-align: center;
+    }
+
+    .rectangle-63 {
+      width: 302px;
+      height: 275px;
+      left: 71px;
+      top: 2111px;
+      position: absolute;
+      border-radius: 100px;
+    }
+
+    .frame-3 {
+      width: 1256px;
+      height: 2507px;
+      position: relative;
+      background: white;
+      overflow: hidden;
+    }
